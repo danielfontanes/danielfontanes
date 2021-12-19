@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+I'm Daniel, I use technology to solve problems 👨‍💻
+
+### Technologies:
+- HTML / PUG
+- CSS / Sass
+- JavaScript / ⚛React (Hooks)
+- Java
 
 <!--
 **danielfontanes/danielfontanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
