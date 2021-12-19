@@ -1,5 +1,5 @@
 ### Welcome to my profile! 👋
-I'm Daniel, I use technologies 🤔🧠 to solve problems 💡.
+I'm Daniel👨‍💻, I use technologies to solve problems 💡.
 
 ### Technologies:
 - HTML / PUG
